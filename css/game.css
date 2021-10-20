@@ -1,0 +1,159 @@
+
+.icon-container-header{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    background-color: #1d3151;
+    padding: .2em;
+}
+
+.iconify-hader{
+    font-size:3em;
+    color: #1d3151;
+    background-color: aliceblue;
+    border-radius: 50%;
+    cursor: pointer;
+  
+}
+.iconify-hader:hover{
+    color: aliceblue;
+    background-color: #012d75;
+}
+
+.iconify-header1{
+border: 10px solid #dd405d;
+}
+.iconify-header2{
+border: 10px solid #eca922;
+}
+.iconify-header3{
+border: 10px solid #5671f5;
+}
+
+/* =================================================== */
+main{
+background-color: #0e0e0ee6;
+padding: 1%;
+/* height: 60%; */
+min-height: 397px;
+}
+.main-content{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+
+.user{
+flex-basis:48% ;
+color: aqua;
+text-align: center;
+
+}
+.hr{
+    width: 70%;
+}
+.title{
+    margin: 0;
+    margin-top: .5em;
+    font-family: Vazir;
+    color: beige;
+}
+.line-container{
+    align-self: center;
+}
+.line{
+text-align: center;
+height: 16em;
+
+}
+.computer{
+flex-basis: 48%;
+color: rgb(51, 136, 170);
+text-align: center;
+}
+
+.iconify-main{
+    font-size: 10em;
+}
+
+.main-btn{
+    width: 87%;
+    text-align: center;
+    margin-right: 6%;
+    font-family: cursive;
+    font-size: xx-large;
+    cursor: pointer;
+    border-radius: .3em;
+    border: none;
+    
+}
+.main-btn:disabled{
+    cursor: not-allowed;
+}
+.main-btn:disabled:hover{
+    background-color: #626262;
+    color: #4a4a4a;
+}
+.mood{
+    font-family: Nahid;
+    color: #ff8201bf;
+}
+.main-btn:hover{
+color: bisque;
+background-color: #1d3151;
+}
+.message-win{
+    text-align: center;
+    font-family: Vazir4;
+    color: #87dd40;
+    margin: 0;
+    margin-top: 1%;
+}
+.message-lose{
+    text-align: center;
+    font-family: Vazir4;
+    color: tomato;
+    margin: 0;
+    margin-top: 1%;
+}
+.message-equal{
+    text-align: center;
+    font-family: Vazir4;
+    color: rgba(192, 192, 192, 0.795);
+    margin: 0;
+    margin-top: 1%;
+}
+
+/* ========================================== */
+footer{
+    background-color:#0e0e0ee6 ;
+    margin: 0;
+    /* margin-top: .11%; */
+}
+.situation-container{
+    font-family: Vazir3;
+    padding: 1em;
+}
+.situation{
+    color: blanchedalmond;
+display: flex;
+flex-flow: row nowrap;
+justify-content: space-around;
+align-items: baseline;
+padding-bottom: 3%;
+/* margin-top: 4%; */
+height: 6vh;
+}
+.situation h2{
+margin: 0;
+}
+
+
+
+
+.programmer{
+    color: azure;
+    text-align: center;
+    font-family: Vazir;
+}

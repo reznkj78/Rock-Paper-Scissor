@@ -1,0 +1,105 @@
+/* fonts aside */ 
+@font-face {
+    font-family: Nahid;
+    src: url('../fonts/Nahid-v0.3.0-Fontjo.com/Nahid.woff2');
+    /* src: url('Nahid.eot');
+    src: url('Nahid.eot?#iefix') format('embedded-opentype'),
+         url('Nahid.woff') format('woff'),
+         url('Nahid.ttf') format('truetype'); */
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: Nahid2;
+    src: url('../fonts/Nahid-v0.3.0-Fontjo.com/Farsi-Digits-Without-Latin/Nahid-FD-WOL.ttf');
+   
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: Nahid3;
+    src: url('../fonts/Nahid-v0.3.0-Fontjo.com/Farsi-Digits/Nahid-FD.woff');
+   
+    font-weight: normal;
+  }
+
+  /* fonts  filter */
+  @font-face {
+    font-family: Nahid4;
+    src: url('../fonts/Nahid-v0.3.0-Fontjo.com/Farsi-Digits-Without-Latin/Nahid-FD-WOL.woff2');
+   
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: FarsiTehran;
+    src: url('../fonts/B-Tehran-Fontjo.com/B\ Tehran\ Italic.ttf');
+   
+   
+  }
+
+  /* user profile */
+
+  @font-face {
+    font-family: Estedad;
+    src: url('../fonts/Estedad-v5.0-Fontjo.com/Estedad[wght\,kshd].woff2');
+   
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: Estedad2;
+    src: url('../fonts/Estedad-v5.0-Fontjo.com/Estedad[wght\,kshd].ttf');
+   
+    font-weight: normal;
+  }
+
+  /* basket */
+  @font-face {
+    font-family: Samim;
+    src: url('../fonts/samim-font-v4.0.4-Fontjo.com/Samim-Bold.woff');
+   
+    font-weight: normal;
+  }
+
+
+  /* populer product */
+ @font-face {
+    font-family: BYekan;
+    src: url('../fonts/B_Yekan/Yekan.ttf');
+   
+    font-weight: normal;
+  }
+ @font-face {
+    font-family: Mitra;
+    src: url('../fonts/Far.Mitra-Fontjo.com/Far.Mitra.ttf');
+   
+    font-weight: normal;
+  }
+ @font-face {
+    font-family: Mitra2;
+    src: url('../fonts/Far.Mitra-Fontjo.com/Far.Mitra\ Bold.ttf');
+   
+    font-weight: normal;
+  }
+ @font-face {
+    font-family: Vazir;
+    src: url('../fonts/vazir-font-v16.1.0/Vazir-Bold.woff');
+   
+    font-weight: normal;
+  }
+ @font-face {
+    font-family: Vazir2;
+    src: url('../fonts/vazir-font-v16.1.0/Vazir-Light.woff');
+   
+    font-weight: normal;
+  }
+ @font-face {
+    font-family: Vazir3;
+    src: url('../fonts/vazir-font-v16.1.0/Vazir-Medium.woff2');
+   
+    font-weight: normal;
+  }
+ @font-face {
+    font-family: Vazir4;
+    src: url('../fonts/vazir-font-v16.1.0/Vazir-Thin.woff');
+   
+    font-weight: normal;
+  }
